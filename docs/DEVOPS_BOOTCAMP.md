@@ -228,14 +228,5 @@ Your React frontend is live on **[https://your-domain.com](https://your-domain.c
 
 ---
 
-## 🔥 Join the Next Session
-
-*📅 ****Date:**** February 22, 2025*\
-*⏰ ****Time:**** Saturday @ 09:00 PM*\
-*📍 ****Hosted by:**** Dev Weekends*\
-*🔗 ****Live Session:**** *[*Google Meet Link*](https://meet.google.com/jga-hzqr-ggk)\
-*📞 ****Join by phone:**** +1 208-843-1488*\
-*🔢 ****PIN:**** 410 867 444#*
-
 🚀 **Don’t miss this chance to level up your DevOps skills!** 🚀
 
