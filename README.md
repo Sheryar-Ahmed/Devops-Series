@@ -32,7 +32,7 @@ devops-series/
 📖 [Read More →](./devops_sessions/session_1/README.md)
 
 ---
-
+<!-- 
 ### 🔹 **Session 2: Docker & Containerization**
 - Writing **Dockerfiles** for Node.js & React  
 - Running containers with **Docker Compose**  
@@ -40,34 +40,34 @@ devops-series/
 
 📖 [Read More →](./devops_sessions/session_2/README.md)
 
----
+--- -->
 
-### 🔹 **Session 3: Kubernetes & Orchestration**
+<!-- ### 🔹 **Session 3: Kubernetes & Orchestration**
 - Deploying **Pods, Services, and Ingress**
 - Running a **multi-container Kubernetes setup**
 - Using **Load Balancing & Ingress Controllers**
 
 📖 [Read More →](./devops_sessions/session_3/README.md)
 
----
+--- -->
 
-### 🔹 **Session 4: CI/CD Pipelines**
+<!-- ### 🔹 **Session 4: CI/CD Pipelines**
 - Setting up **Jenkins & GitHub Actions**
 - Deploying with **Docker & Kubernetes**
 - Automating builds & testing  
 
 📖 [Read More →](./devops_sessions/session_4/README.md)
 
----
+--- -->
 
-### 🔹 **Session 5: Infrastructure as Code (Terraform & Ansible)**
+<!-- ### 🔹 **Session 5: Infrastructure as Code (Terraform & Ansible)**
 - **Terraform** for provisioning AWS resources  
 - **Ansible** for automating configurations  
 - Deploying AWS EC2, RDS, S3, and more  
 
 📖 [Read More →](./devops_sessions/session_5/README.md)
 
----
+--- -->
 
 ## 🚀 **Getting Started**
 
