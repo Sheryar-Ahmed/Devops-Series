@@ -31,6 +31,27 @@ devops-series/
 
 📖 [Read More →](./devops_sessions/session_1/README.md)
 
+### 🔹 **Session 2: Domain Management, Linux & Advanced Git**
+- **Understanding Domains & DNS**
+  - Domain types (TLDs, SLDs, Subdomains)  
+  - DNS Flow & how domain resolution works  
+
+- **Domain Setup & Configuration**
+  - Setting up a **DNS record for an EC2 instance**  
+  - Configuring **Nginx with domain settings**  
+  - Using **AWS Route 53 for DNS management**  
+
+- **AWS Route 53 Advanced Routing**
+  - Simple, Latency-based, Geolocation-based, Failover, and Weighted Routing  
+
+- **Linux Essentials**
+  - Learning **20+ key Linux commands** (ls, cd, mkdir, rm, touch, grep, etc.)
+
+- **Advanced Git Techniques**
+  - Cherry-picking, rebasing vs merging, reset (soft/hard), stash/pop, and force push  
+
+📖 [Read More →](./devops_sessions/session_2/README.md)
+
 ---
 <!-- 
 ### 🔹 **Session 2: Docker & Containerization**
