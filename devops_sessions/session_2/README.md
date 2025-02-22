@@ -5,6 +5,9 @@ Welcome to the second session of our DevOps training! In this session, we covere
 
 ---
 
+📌 **Figma Board for Session 2:** [View Here](https://www.figma.com/board/RWz9UkoJZxZGwnJlx2m5W6/Second-devops-session?node-id=0-1&p=f&t=SoGYTA9eKzAQo7LE-0)
+📌 **Youtube Video Link Session 2:** [View Here](https://youtu.be/pfc8183jtPE?feature=shared)
+
 ## 📌 **Session Overview**  
 ### 🔹 **1. Understanding Domains & DNS**  
 Before diving into domain management, we covered:  
