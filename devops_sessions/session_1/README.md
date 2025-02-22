@@ -1,10 +1,3 @@
-Here's the **`README.md`** for the Node.js app, explaining setup, deployment, and configuration.  
-
----
-
-### 📜 **README.md (Node.js App)**  
-
-```md
 # 🚀 Node.js Application
 
 This directory contains a simple **Node.js application** that will be deployed on an **AWS EC2 instance** using **PM2** and **Nginx** as a reverse proxy.
