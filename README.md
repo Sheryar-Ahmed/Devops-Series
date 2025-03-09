@@ -53,24 +53,28 @@ devops-series/
 📖 [Read More →](./devops_sessions/session_2/README.md)
 
 ---
-<!-- 
-### 🔹 **Session 2: Docker & Containerization**
-- Writing **Dockerfiles** for Node.js & React  
-- Running containers with **Docker Compose**  
-- Managing **volumes & networking** in Docker  
 
-📖 [Read More →](./devops_sessions/session_2/README.md)
+### 🔹 **Session 2: Mastering AWS Route 53, Nginx, Linux & GitHub**  
+- Configuring **AWS Route 53** for domain management  
+- Setting up **Nginx** for web hosting  
+- Learning **Linux essentials** for DevOps  
+- Mastering **Git & GitHub** for version control  
 
---- -->
+📖 [Read More →](./devops_sessions/session_2/README.md)  
 
-<!-- ### 🔹 **Session 3: Kubernetes & Orchestration**
-- Deploying **Pods, Services, and Ingress**
-- Running a **multi-container Kubernetes setup**
-- Using **Load Balancing & Ingress Controllers**
 
-📖 [Read More →](./devops_sessions/session_3/README.md)
+### 🔹 **Session 3: Docker & Container Orchestration**  
 
---- -->
+## **📌 Session Overview**
+In this session, we covered:  
+✅ **Docker Fundamentals** – Containers, Images, Docker Daemon, Docker CLI, and Docker Registry  
+✅ **Working with Docker** – Writing a `Dockerfile`, building images, running containers  
+✅ **Docker Compose** – Multi-container applications, networking, and volumes  
+✅ **Container Orchestration** – What it is and why we need it  
+✅ **Hands-on Examples** – Running Node.js with MongoDB using Docker and Docker Compose  
+
+📖 [Read More →](./devops_sessions/session_3/README.md)  
+
 
 <!-- ### 🔹 **Session 4: CI/CD Pipelines**
 - Setting up **Jenkins & GitHub Actions**
@@ -81,14 +85,6 @@ devops-series/
 
 --- -->
 
-<!-- ### 🔹 **Session 5: Infrastructure as Code (Terraform & Ansible)**
-- **Terraform** for provisioning AWS resources  
-- **Ansible** for automating configurations  
-- Deploying AWS EC2, RDS, S3, and more  
-
-📖 [Read More →](./devops_sessions/session_5/README.md)
-
---- -->
 
 ## 🚀 **Getting Started**
 
