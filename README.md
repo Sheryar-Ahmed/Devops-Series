@@ -82,7 +82,7 @@ devops-series/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Sheryar-Ahmed/Devops-Series.git
 cd devops-series
 ```
 
