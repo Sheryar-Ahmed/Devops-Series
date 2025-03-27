@@ -15,28 +15,28 @@
    ```bash
    cd Devops-Series
    ```
-3. Create a new branch named **session/fifth**:
+3. Create a new branch for the session you are working on (replace `X` with the session number):
    ```bash
-   git checkout -b session/fifth
+   git checkout -b session/X
    ```
 
-## Step 3: Create a Folder for Session 5
-1. Inside the **devops_session** directory, create a new folder named **session_5**:
+## Step 3: Create a Folder for the Session
+1. Inside the **devops_session** directory, create a new folder for the session (replace `X` with the session number):
    ```bash
-   mkdir -p devops_session/session_5
+   mkdir -p devops_session/session_X
    ```
 
 ## Step 4: Add a README and Other Necessary Files
 1. Navigate to the new folder:
    ```bash
-   cd devops_session/session_5
+   cd devops_session/session_X
    ```
 2. Create a `README.md` file:
    ```bash
    touch README.md
    ```
 3. Open the file and document all the session material, including:
-   - Explanation of concepts covered in **Episode 5**.
+   - Explanation of concepts covered in **Episode X**.
    - Any **configurations** or **commands** used.
    - If there are any shell scripts, create a `.sh` file:
      ```bash
@@ -55,11 +55,11 @@
    ```
 2. Commit the changes:
    ```bash
-   git commit -m "Added session 5 documentation and related files"
+   git commit -m "Added session X documentation and related files"
    ```
 3. Push the branch to the remote repository:
    ```bash
-   git push origin session/fifth
+   git push origin session/X
    ```
 
 ## Step 6: Sync with the Original Repository and Create a Pull Request
@@ -73,20 +73,19 @@
    ```
 3. Merge the latest `main` branch from the original repository into your current branch:
    ```bash
-   git checkout session/fifth
+   git checkout session/X
    git merge upstream/main
    ```
 4. If any conflicts arise, resolve them and commit the changes.
 5. Push the updated branch to your forked repository:
    ```bash
-   git push origin session/fifth
+   git push origin session/X
    ```
 6. On GitHub, go to your **forked repo**, open the **Pull Requests** tab, and click **New Pull Request**.
-7. Choose **session/fifth** as the source branch and **main** as the target branch.
+7. Choose **session/X** as the source branch and **main** as the target branch.
 8. Add a **title and description**, then create the PR.
 
 ## Step 7: Assign a Reviewer
 1. In the Pull Request, assign a reviewer (e.g., @Sheryar-Ahmed).
 2. Wait for the review and approval.
 3. Once approved, the PR will be merged into the **main** branch.
-
