@@ -229,7 +229,7 @@ git push origin main
 
 ## 📽 Watch the Full Session
 
-🔗 [CI/CD Deploy MERN App with GitHub Actions + Docker + EC2](https://www.youtube.com/playlist?list=PL_yEmchnldCPbxySt5lOA-aUvSAYDMQN4&si=DJosov_0HnxShlDz)
+🔗 [CI/CD Deploy MERN App with GitHub Actions + Docker + EC2](https://youtu.be/xgj6vzs2HNs?feature=shared)
 
 ---
 
