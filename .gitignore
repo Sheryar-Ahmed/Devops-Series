@@ -1,2 +1,5 @@
 node_modules
 node_app/node_modules
+mern-cicd/client/node_modules
+mern-cicd/server/node_modules
+npm-debug.log
