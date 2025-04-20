@@ -77,6 +77,26 @@ devops-series/
 
 ---  
 
+Here’s the **Session 6 summary** in the same clean format:
+
+---
+
+### 🔹 **Session 6: CI/CD Pipeline for MERN Stack using GitHub Actions & AWS EC2**  
+- **What is CI/CD & Why It Matters**  
+- **Understanding Workflows, Jobs, Steps in GitHub Actions**  
+- **Dockerizing React (client) & Node.js (server)**  
+- **Building & Pushing Docker Images to DockerHub**  
+- **Creating GitHub Actions Workflow for Auto Deployment**  
+- **Using SSH Action to Deploy on EC2 Instance**  
+- **Managing GitHub Secrets for Secure Deployment**  
+- **Optional ESLint Checks Before Deployment**  
+- **Live Testing on Public EC2 IP**  
+- **Troubleshooting & Best Practices**  
+
+📖 [Read More →](./devops_sessions/session_6/README.md)  
+
+--- 
+
 ## 🚀 **Getting Started**
 
 ### 1️⃣ Clone the Repository
